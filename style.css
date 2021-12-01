@@ -8,6 +8,9 @@
     font-size: 30px;
     border:5px solid black;
     background-attachment: fixed;
+    
+    /* delete this color */
+    color: brown;
 }
 
 h1 {
